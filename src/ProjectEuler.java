@@ -60,7 +60,7 @@ public class ProjectEuler {
      * for this problem. Pretty easy, took
      * about 5 minutes to write and test.
      * 
-     * @author Manu Singhal
+     * @author Manu Singhal, Grant Stahl
      */
     public static void problem1()
     {
